@@ -21,6 +21,8 @@ public class Tests {
     public void contextLoads() {
         List<Face> faceList = faceService.getAllFae();
         System.out.println("测试："+faceList);
+
+        //增加新的一行注释然后提交
     }
 
 }
